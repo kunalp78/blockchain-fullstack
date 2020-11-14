@@ -1,5 +1,5 @@
-## blockchain-fullstack
-Building a Blockchain fullstack front and backend using node and reactjs. Any contribution would be appreciated
+## Build a Blockchain and Cryptocurrency | Full-Stack Edition
+
 
 The blockchain is a revolutionary technology that allows for the secure, distributed, decentralized storage of information. Over the past few years, the blockchain has taken the engineering landscape by storm. Many people in the industry predict that the blockchain will disrupt the ways we interact with technology on the same way the Internet did in the early 2000s.
 This takes that course's best content, and adds a ton of additional material: Some of the main course highlights:
@@ -15,3 +15,5 @@ This takes that course's best content, and adds a ton of additional material: So
  - Sign Transactions with cryptography and digital signature.
  - Create a Transaction Pool for a real-time list of incoming data.
  - Include transactions in core blocks of the chain.
+
+ ## You are Open to Join My project any contribution above would be appreciated
